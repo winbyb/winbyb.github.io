@@ -1,3 +1,3 @@
 # winbyb.github.io
 
-A github page - possibly somethjing to use for the Customer Science knowledge management.
+A github page - not sure what this does. 
